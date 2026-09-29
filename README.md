@@ -30,7 +30,3 @@ Built with Claude, Cursor, Lovable, and the OpenAI API.
 ### Toolkit
 
 `Python` `SQL` `Git` `OpenAI API` `Claude` `Cursor` `Lovable` `Figma`
-
----
-
-More at **[jjingdong.com](https://jjingdong.com)**.
