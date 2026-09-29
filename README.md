@@ -1,16 +1,18 @@
-## Hi, I'm Jing 👋
+# Hi, I'm Jing
 
-Engineer-turned product manager in New York. I build AI products end to end, from the problem definition to the working build.
+**Engineer-turned product manager in New York. I build AI products end to end, from the problem definition to the working build.**
 
-Fifteen years in tech: seven as a backend software engineer, six teaching and coaching engineers, and the last year and a half in product.
+[![Website](https://img.shields.io/badge/jjingdong.com-Portfolio-black?style=flat-square)](https://jjingdong.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jjingdong)
 
-### What I'm building
+---
 
-**Cleara** is a 0→1 AI product I'm designing and building on my own: product architecture, AI interaction design, UX, and the feedback loop. It's a working prototype, not a business, and I'm happy to demo it.
+### Projects
 
-The most useful thing it taught me was where the model *doesn't* belong. Dynamic LLM generation made the core loop unpredictable, so I replaced it with deterministic logic and kept the model only where it helped.
-
-Built with Claude, Cursor, Lovable, and the OpenAI API.
+| Project | What it is |
+|---|---|
+| **[ai-pm-job-radar](https://github.com/jjingdong/ai-pm-job-radar)** | Tests whether Jev, a decision model, can sort PM job listings better than a keyword filter. Out of 7,301 listings, it found 137 AI-related PM roles for under five cents, and the eval shows where the keyword filter misses. |
+| **[Cleara](https://jjingdong.com/work/cleara)** | A 0→1 AI product I designed and built on my own. I replaced its dynamic LLM generation with deterministic logic, because the model made the core loop unpredictable. Working prototype, happy to demo. |
 
 ### Case studies
 
@@ -21,12 +23,15 @@ Built with Claude, Cursor, Lovable, and the OpenAI API.
 | **[The expansion I argued against](https://jjingdong.com/work/outco)** | Outco: growing a coaching team from 20+ to 40+ without letting quality slip |
 | **[Ten seconds](https://jjingdong.com/work/refinery29)** | Refinery29: a 70% page-load improvement from indexing and query work |
 
-### Before this
+### Background
 
-- **ApplyPass**: Product manager on a platform that helps software engineers find and automatically apply to jobs.
-- **Outco**: Taught 500+ hours of data structures and system design, then grew the technical coaching team to 40+ coaches supporting 1,000+ learners. Contributed to 300+ job placements.
-- **Refinery29**: Backend engineer on the API platform, working on the article feed that served 110M page views a week and the video platform that grew views 300%.
+Fifteen years in tech: seven as a backend software engineer, six teaching and coaching engineers, and the last year and a half in product.
+
+- **AI Product Manager, Cleara** (2025–present): designing and building a 0→1 AI product solo, covering product architecture, AI interaction design, UX, and the feedback loop
+- **Product Manager, ApplyPass** (2023–2024): owned roadmap and release planning for a platform that helps software engineers find and automatically apply to jobs
+- **Tech Coach Manager, Outco** (2021–2023): taught 500+ hours of data structures and system design, grew the coaching team from 20+ to 40+ supporting 1,000+ learners, and contributed to 300+ job placements
+- **Platform Engineer, Refinery29** (2015–2016): backend for an article feed serving 110M page views a week and a video platform that grew views 300%
 
 ### Toolkit
 
-`Python` `SQL` `Git` `OpenAI API` `Claude` `Cursor` `Lovable` `Figma`
+`Python` `SQL` `Git` `OpenAI API` `Claude` `Claude Code` `Cursor` `Lovable` `Figma`
