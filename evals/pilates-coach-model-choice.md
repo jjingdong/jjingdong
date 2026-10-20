@@ -1,9 +1,9 @@
-# Choosing the coaching model for the Pilates Project
+# Choosing the coaching model for Pilates Voice
 
 **Question:** which model should write the in-session coaching cues?
 **Answer:** `gpt-4o-mini`, chosen over Claude Haiku 4.5 by a blind review. It also turned out to be faster and cheaper.
 
-The Pilates Project guides you through a short Pilates session. During an exercise you can say how it feels ("my neck is getting tight"), and the app answers with two or three coaching cues. The cues are the only part an AI model writes. The session flows are fixed, because AI-generated sequences made the core loop unpredictable.
+Pilates Voice guides you through a short Pilates session. During an exercise you can say how it feels ("my neck is getting tight"), and the app answers with two or three coaching cues. The cues are the only part an AI model writes. The session flows are fixed, because AI-generated sequences made the core loop unpredictable.
 
 ## The eval set
 
