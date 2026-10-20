@@ -12,7 +12,7 @@
 | Product | What it is | Links |
 |---|---|---|
 | **Curve Routine** | Helps people stick to the home exercise routine their physical therapist gave them. Type the exercises in your own words, and it turns them into a guided session you can follow, log, and bring back to your next appointment. Built for Lovable SheBuilds Season 04 (Oct 2026). | [Live demo](https://curve-routine.lovable.app) · [Eval](evals/curve-routine-reader.md) |
-| **Pilates Voice** | Short guided Pilates sessions with an AI coach. Say how an exercise feels, and it answers with two or three short cues. The session flows are fixed, and a safety stop in code catches pain before any model is called. | [Live demo](https://pilates-coach-ai--jjing.replit.app) · [Eval](evals/pilates-coach-model-choice.md) |
+| **Pilates Voice** | Short guided Pilates sessions with an AI coach. Say how an exercise feels, and it answers with two or three short cues. The session flows are fixed, and a safety stop in code catches pain before any model is called. | [Live demo](https://pilates-voice.vercel.app) · [Eval](evals/pilates-coach-model-choice.md) |
 | **[ai-pm-job-radar](https://github.com/jjingdong/ai-pm-job-radar)** | Tests whether Jev, a decision model, can sort PM job listings better than a keyword filter. Out of 7,301 listings, it found 137 AI-related PM roles for under five cents. | [Repo](https://github.com/jjingdong/ai-pm-job-radar) · [Eval](https://github.com/jjingdong/ai-pm-job-radar/blob/main/eval/results.md) |
 
 ### Eval case studies
