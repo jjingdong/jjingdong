@@ -25,6 +25,12 @@ How I decide whether an AI feature is good enough to ship.
 | **[The blind review that picked the model](evals/pilates-coach-model-choice.md)** | Pilates Voice: gpt-4o-mini vs. Claude Haiku 4.5, judged blind by a certified instructor, plus a retry bug the eval caught |
 | **[Model vs. keyword filter](https://github.com/jjingdong/ai-pm-job-radar/blob/main/eval/results.md)** | ai-pm-job-radar: 40 hand-labeled postings. On "is this AI product work?", the model scored 15/15 and the title regex 5/15 |
 
+### Build case studies
+
+| | |
+|---|---|
+| **[A feature flag for the AI model](case-studies/pilates-voice-model-flag.md)** | Pilates Voice: roll a new model out to a share of users, keep each user on one model, and roll back automatically when it starts failing |
+
 ### Background
 
 Fifteen years in tech: seven as a backend software engineer, six teaching and coaching engineers, and the last year and a half in product.
