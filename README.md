@@ -31,15 +31,6 @@ How I decide whether an AI feature is good enough to ship.
 |---|---|
 | **[A feature flag for the AI model](case-studies/pilates-voice-model-flag.md)** | Pilates Voice: roll a new model out to a share of users, keep each user on one model, and roll back automatically when it starts failing |
 
-### Background
-
-Fifteen years in tech: seven as a backend software engineer, six teaching and coaching engineers, and the last year and a half in product.
-
-- **Independent AI product builder** (2025–present): designing and building Curve Routine and Pilates Voice solo, covering product architecture, AI interaction design, evals, and UX
-- **Product Manager, ApplyPass** (2023–2024): owned roadmap and release planning for a platform that helps software engineers find and automatically apply to jobs
-- **Tech Coach Manager, Outco** (2021–2023): taught 500+ hours of data structures and system design, grew the coaching team from 20+ to 40+ supporting 1,000+ learners, and contributed to 300+ job placements
-- **Platform Engineer, Refinery29** (2015–2016): backend for an article feed serving 110M page views a week and a video platform that grew views 300%
-
 ### Toolkit
 
 `Python` `SQL` `Git` `OpenAI API` `Claude API` `Claude Code` `Cursor` `Lovable` `Supabase` `Google Cloud`
