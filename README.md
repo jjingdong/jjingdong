@@ -14,6 +14,7 @@
 | **ai-pm-job-radar** | Tests whether Jev, a decision model, can sort PM job listings better than a keyword filter. Out of 7,301 listings, it found 137 AI-related PM roles for under five cents. | [Live](https://jjingdong.github.io/ai-pm-job-radar/) | [Results](https://github.com/jjingdong/ai-pm-job-radar/blob/main/eval/results.md) | [GitHub](https://github.com/jjingdong/ai-pm-job-radar) |
 | **Curve Routine** | Helps people stick to the home exercise routine their physical therapist gave them. Type the exercises in your own words, and it turns them into a guided session you can follow, log, and bring back to your next appointment. Built for Lovable SheBuilds Season 04 (Oct 2026). | [Live](https://curve-routine.lovable.app) | [Results](evals/curve-routine-reader.md) | Private |
 | **Pilates Voice** | Short guided Pilates sessions with an AI coach. Say how an exercise feels, and it answers with two or three short cues. The session flows are fixed, and a safety stop in code catches pain before any model is called. | [Live](https://app.pilatesvoice.com) | [Results](evals/pilates-coach-model-choice.md) | Private |
+| **Redline** | Tells a freelancer on a small job what a client's contract would cost them before they sign. It flags IP, payment, ending-early and scope clauses, and every flag quotes the exact sentence it came from, checked word for word against the contract. With no contract, it fills in a one-page services agreement. | Coming soon | Coming soon | Private |
 
 ### Eval case studies
 
