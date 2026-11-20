@@ -33,4 +33,4 @@ How I decide whether an AI feature is good enough to ship.
 
 ### Toolkit
 
-`Python` `SQL` `Git` `OpenAI API` `Claude API` `Claude Code` `Cursor` `Lovable` `Supabase` `Google Cloud`
+`Python` `SQL` `Git` `OpenAI API` `Claude API` `OpenRouter` `Claude Code` `Matt Pocock's skills` `Impeccable` `Cursor` `Lovable` `Supabase` `Vercel` `Google Cloud`
